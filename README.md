@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alishba0018
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning to use gihub.
+- 🌱 I’m currently learning to use github.
 - ⚡ Fun fact: The picture belows shows a character that I pretty much relates to sometimes.
 - 
   ![Picture of a character in a movie which i very much relates to](https://i.imgflip.com/46p0ok.jpg?a479016)
