@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alishba0018
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning to use gihub.
-- ⚡ Fun fact: I have no prior knowledge on programming.
+- ⚡ Fun fact: The picture belows shows a character that I pretty muc relates to.
 - 
   ![Picture of a character in a movie which i very much relates to](https://i.imgflip.com/46p0ok.jpg?a479016)
 <!---
